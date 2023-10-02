@@ -29,7 +29,16 @@ h1{
 }
 
 .boton{
-    background-color: aliceblue;
-    padding: 5%;
-    margin: 2%;
+    background-color: #ec8bbce0;
+    padding: 15px, 1px;
+    margin: 10px;
+    font-size: large;
+    border: 3px solid #020202;
 }
+
+.texto-centrado {
+    text-align: center;
+}
+
+
+  
